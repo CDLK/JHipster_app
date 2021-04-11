@@ -41,6 +41,8 @@
     "jwtSecretKey": "ZDAyYzVjZWIxMzRmMjVkNmQzZTg1NDI3ZDkwYTNkYjZjNmZjYzkwMWFkYjgyMDFkMWIzMWEzMWYwNjlhMzMxNGY4YTcyMDU1MzhlMDE4MmE0MTdlNTI0NjQ1NzMwNWE3NmZiZjcyYWZhNzUyNjg0YmJmMDE5YzcwZmRkOTNiYTU=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["fr", "hy", "bg", "zh-cn", "en", "my", "ru"]
+    "languages": ["fr", "hy", "bg", "zh-cn", "en", "my", "ru"],
+    "entities": ["Blog", "Post", "Tag"],
+    "lastLiquibaseTimestamp": 1618158842000
   }
 }
